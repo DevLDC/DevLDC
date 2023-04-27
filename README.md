@@ -1,2 +1,2 @@
-- use at own risk -
+- if it doesn't work then delete roblox in control panel and download again from web
 - this is only avaliable on windows, so no need to download the zip file or you can extract it, (it doesn't matter)
